@@ -1,0 +1,19 @@
+{
+  "name": "remotedemo",
+  "version": "1.0.0",
+  "description": "this is a demom repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nandini0707/remoteDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nandini0707/remoteDemo/issues"
+  },
+  "homepage": "https://github.com/Nandini0707/remoteDemo#readme"
+}
